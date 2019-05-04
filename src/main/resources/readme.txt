@@ -1,0 +1,2 @@
+config.properties是JDBC连接MySQL的配置文件
+log4j.properties是log4j日志的配置文件
